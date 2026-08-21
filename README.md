@@ -15,4 +15,4 @@ To Design a wireframe diagram for a generic application or website using Balsami
 <img width="1865" height="996" alt="{26530F1A-DA45-4C7E-8F2C-65AD1BF9A791}" src="https://github.com/user-attachments/assets/2f568cb4-a03b-4056-b1ba-c4af6493ae02" />
 
 ## Result:
-4-screen wireframe (Splash, Login/Signup, Home, Content Detail, Subscription) is sucessfully created.
+4-screen wireframe (Logo, Home, Content Detail, Final Screen) is sucessfully created.
